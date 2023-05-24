@@ -34,6 +34,7 @@
     "NodeStatus_DSN": {
       "description": "Optional. NodeStatus server connection info, default blank value will disable NodeStatus. Example: wss://username:password@status.mydomain.com",
       "value": ""
+      "required":False
     }
   },
   "stack": "container"
