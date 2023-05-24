@@ -33,7 +33,7 @@
     },
     "NodeStatus_DSN": {
       "description": "Optional. NodeStatus server connection info, default blank value will disable NodeStatus. Example: wss://username:password@status.mydomain.com",
-      "value": ""
+      "value": "",
       "required":false
     }
   },
